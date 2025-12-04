@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jwill2125
 - 👀 I’m interested in the outdoors, hiking and water sports
-- 🌱 I’m currently learning copmuter science
+- 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on AI startups
 - 📫 How to reach me jwill234@calpoly.edu
 - 😄 Pronouns: He/His/Him
