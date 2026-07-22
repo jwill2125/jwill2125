@@ -1,12 +1,1 @@
-- 👋 Hi, I’m @jwill2125
-- 👀 I’m interested in the outdoors, hiking and water sports
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on AI startups
-- 📫 How to reach me jwill234@calpoly.edu
-- 😄 Pronouns: He/His/Him
-- ⚡ Fun fact: I am ambidextrous
-
-<!---
-jwill2125/jwill2125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Computer Science student with hands-on sales and leadership experience, combining technical knowledge with strong business execution. I’m driven by solving real problems, building strong client relationships, and delivering solutions that create measurable impact. Competitive and results-focused, I aim to set the standard by connecting customers with the best technology and ensuring it performs at the highest level.
